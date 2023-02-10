@@ -156,19 +156,21 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+Una bobina en corriente continua se comporta como un cortocircuito, ya que al ser corriente constante que no varia con el tiempo no se produce autoinduccion
 
+Los capacitores pueden conducir corriente continua durante sólo un instante (por lo cual podemos decir que los capacitores, para las señales continuas, es como un cortocircuito
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
-
+En corriente alterna, una bobina ideal ofrece una resistencia al paso de la corriente eléctrica que recibe el nombre de reactancia inductiva, el condensador se carga y descarga tantas veces como varíe la tensión.
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
-
+Para el circuito formado por los capacitores se va a producir cambios en el voltaje y la corriente, para el circuito formado por los inductores lo unico que va a variar va a ser el voltaje ya que los inductores no tienen la capacidad de controlar la corriente.
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
-
+Para un valor eficaz se cumpliría que si al aplicar corriente alterna y luego continua sobre una resistencia la potencia seria la misma
 
 5.VIDEO.
 
