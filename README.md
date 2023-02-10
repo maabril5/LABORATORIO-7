@@ -22,7 +22,7 @@ INDUCTOR Y CAPACITOR.
 
 - Verificar las combinaciones serie y paralelo de bobinas y capacitores.
 
-- Aprender el uso y manejo de un osciloscopio en el simulador DCAClab para su aplicación.
+- Aprender el uso y manejo de un osciloscopio en el simulador Multisim para su aplicación.
 
 2. MARCO TEÓRICO.
 
@@ -34,7 +34,7 @@ MAPA CONCEPTUAL.
 
 Los materiales necesarios para realizar el laboratorio 7 son:
 
-- Laboratorio virtual ACDCLab
+- Laboratorio virtual Multisim
 
 - Generador de señales
 
@@ -50,7 +50,7 @@ Los materiales necesarios para realizar el laboratorio 7 son:
 
 - Resistencias, bobinas y capacitores.
 
-3.1 Se construyó el circuito en el laboratorio virtual DCACLab.
+3.1 Se construyó el circuito en el laboratorio virtual Multisim.
 
 1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
@@ -174,7 +174,7 @@ Para un valor eficaz se cumpliría que si al aplicar corriente alterna y luego c
 
 5.VIDEO.
 
-
+https://youtube.com/watch?v=3b5FtwdStmw&si=EnSIkaIECMiOmarE
 
 6. CONCLUSIONES.
 
