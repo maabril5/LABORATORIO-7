@@ -90,7 +90,7 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 
 
-3.3 Preguntas
+4. Preguntas
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
@@ -114,17 +114,17 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 6. CONCLUSIONES.
 
-Se pudo determinar que el teorema de la máxima transferencia de potencia se relaciona con el teorema de Thévenin, ya que este usa dicho circuito equivalente, con una resistencia y su carga de salida.
+- Se verificó de manera correcta el comportamiento de los capacitores e inductores en conjunto con una resistencia para los circuitos con DC y AC, mediante la toma de mediciones de voltaje y analizando la onda sinusoidal con respecto a valores pico, tiempo, periódo y ciclo.
 
-El teorema de la máxima potencia de transferencia explica cómo aprovechar al máximo la energía que proporcionan los elementos en un circuito.
-
-Con la ayuda del vatímetro se pudo calcular la potencia establecida encontrada referente a la resistencia de carga.
+- Con la ayuda del osciloscopio de pudo hallar valores de ondas en el circuito y además se logró identificar capacitores e inductancias en serie o paralelo.
 
 - Mediante un video explicativo se llego a desarrollar conocimientos y comprender el tema con mejor amplitud, poniéndolo en práctica.
 
 7. BIBLIOGRAFÍA.
 
 - Thomas L. Floyd. (2007). Principios de circuitos electrónicos. PEARSON EDUCACIÓN, México
+
+- Capacitores e inductores. (2018). En Análisis de circuitos eléctricos Estado estable (pp. 79–95). Editorial Universidad del Norte.
 
 
 
