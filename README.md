@@ -12,7 +12,7 @@ INDUCTOR Y CAPACITOR.
 
 1.OBJETIVOS GENERALES
 
-- Estudiar el papel que juega el inductor y capacitor en el circuito.
+- Estudiar la importancia del inductor y capacitor en el circuito.
 
 - Realizar un video explicativo entendiendo las características y usos de estos elementos, desarrolados en un osciloscopio.
 
@@ -27,3 +27,4 @@ INDUCTOR Y CAPACITOR.
 2. MARCO TEÓRICO.
 
 MAPA CONCEPTUAL.
+
