@@ -19,7 +19,7 @@ INDUCTOR Y CAPACITOR.
 1.1 OBJETIVOS ESPECÍFICOS.
 
 - Verificar el comportamiento de la bobina y el capacitor en circuitos AC y DC.
-.
+
 - Verificar las combinaciones serie y paralelo de bobinas y capacitores.
 
 - Aprender el uso y manejo de un osciloscopio en el simulador DCAClab para su aplicación.
