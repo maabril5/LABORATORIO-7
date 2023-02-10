@@ -14,7 +14,7 @@ INDUCTOR Y CAPACITOR.
 
 - Estudiar la importancia del inductor y capacitor en el circuito.
 
-- Realizar un video explicativo entendiendo las características y usos de estos elementos, desarrolados en un osciloscopio.
+- Realizar un video explicativo entendiendo las características y usos de estos elementos, desarrollados en un osciloscopio.
 
 1.1 OBJETIVOS ESPECÍFICOS.
 
