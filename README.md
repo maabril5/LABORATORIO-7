@@ -28,3 +28,5 @@ INDUCTOR Y CAPACITOR.
 
 MAPA CONCEPTUAL.
 
+![image](https://user-images.githubusercontent.com/117920423/218003303-e223383b-d570-405c-8c05-5b66997a25e1.png)
+
